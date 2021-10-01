@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="left">Richard Santiago Urrea Garcia (RichardUG) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
 Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
