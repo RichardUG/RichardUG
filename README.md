@@ -1,8 +1,8 @@
 <h1 align="left">Richard Santiago Urrea Garcia (RichardUG) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-Estudiante de Ingeniería de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
+Ingeniero de Sistemas de la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
 
-- 🌱 Studing at [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
+- 🌱 Working at [Amadeus IT Group](https://www.escuelaing.edu.co/es/**).
 
 <h2 align="left">GitHub stadistics</h2>
 
